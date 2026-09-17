@@ -1,0 +1,1 @@
+{"title":"MGCS NFT","type":"object","properties":{"name":{"type":"string","description":"MGCS  NFT"},"description":{"type":"string","description":"MGCS NFT info"}},"image":"https://github.com/zhao4189059-hub/app/blob/b8885ebc9f42d1aaa68d11bd251d88e764cba8a9/nft.jpg"}
